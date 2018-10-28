@@ -18,11 +18,9 @@ html {
 }
 
 body {
-    $background-color: #1d1d1d; /* a dark, off-black for the bg */
-    $text-color: #c26610; /* an off-white for the text */
-    $grey-color-light: #565656; /* for the border-top separators */
-    $grey-color-dark: #adadad; /* such as the site title in the header, visited */
-    font: 18px/1.4 $helvetica;
+	background: $black;
+  font: 18px/1.4 $helvetica;
+  color: $orange;
 }
 
 .container {
