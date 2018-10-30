@@ -1,6 +1,4 @@
-# Usefull Webservices and Resources in the Net
-
-My favorite Webservices.  
+My favorite Webservices and Resources in the Net.  
 
 * (https://live.sysinternals.com "Sys Internals Live")
 * (http://cd.justinjc.com "A minimalist countdown timer")

@@ -1,5 +1,3 @@
-# Einleitung
-
 Vivaldi ist eine Software der Gattung Browser (wie "Edge", "Safari", "Chrome", etc.). Der Entwickler des Browsers Opera hat mit Vivaldi seine Idee eines flexiblen, europäischen Browsers realisiert. Der Browser wird für die Betriebssysteme "Windows" (=> Version 7), MAC-OS (=> Version 10.9) und Linux (DEB / RPM) angeboten.
 
 ## Notizen

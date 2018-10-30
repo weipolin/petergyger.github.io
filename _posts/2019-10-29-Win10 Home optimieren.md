@@ -1,5 +1,3 @@
-# Einführung  
-
 Windows 10 ist in der "Home" Variante stark verbreitet. Die "Pro" oder "Enterprise" Variante kostet einen erheblichen Aufschlag. Daher haben einige Nutzer nach Möglichkeiten gesucht, gewisse Funktionen auch in der Home Variante zu nutzen. Diese "Ideen" sammle ich in diesem Blogpost.  
 
 ## Gruppenrichtlinien Editor aktivieren
