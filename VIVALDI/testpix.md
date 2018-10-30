@@ -1,0 +1,1 @@
+![Beispieltext](<icon.jpg>)
