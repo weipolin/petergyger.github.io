@@ -4,7 +4,9 @@ William Koehrsen hat nun auf GitHub eine Vorlage ("Repository") namens ["Jeckyll
 
 Die Verzeichnis und Dateistruktur sieht so aus:  
 
-(https://github.com/PeterGyger/petergyger.github.io/blob/master/Ein%20neuer%20Anfang%20mit%20Jekyll-Now/Verzeichnisstruktur.png)  
+!(https://github.com/PeterGyger/petergyger.github.io/blob/master/Ein neuer Anfang mit Jekyll-Now/Verzeichnisstruktur.png)  
+
+Mittels des "Tree" Befehls der Windows CLI (cmd.exe) wird im ersten Teil die Verzeichnisstruktur angezeigt. Im zweiten Teil - "tree /f" werden auch die einzelnen Dateien in den Verzeichnissen angezeigt.  
 
 
 
