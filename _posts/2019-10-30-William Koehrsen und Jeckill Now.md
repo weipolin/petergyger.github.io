@@ -6,7 +6,9 @@ Dieser Artikel schildert meine Erfahungen sowie mein Einstieg in Jeckyll bzw. "J
 
 Ein guter Einstieg ist die Datei "Readme.md". Dort wird erklärt (en), wie die Software funktioniert. Bzw. wo man den Blog konfigurieren kann. Dort wird u.a. auch auf diesen Artikel von ["Smashingmagazine"](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/) verwiesen.  
 
-Die Anpassungen die hier dokumentiert werden, sind von unterschiedlicher Verständnistiefe. Ein kurzes nachschlagen auf [SelfHTML](https://wiki.selfhtml.org/wiki/Startseite) oder [W3Schools](https://www.w3schools.com) sollte fehlenden Wissen schnell aufbauen.
+Die Anpassungen die hier dokumentiert werden, sind von unterschiedlicher Verständnistiefe. Ein kurzes nachschlagen auf [SelfHTML](https://wiki.selfhtml.org/wiki/Startseite) oder [W3Schools](https://www.w3schools.com) sollte fehlenden Wissen schnell aufbauen.  
+
+![Baum](../Ein_neuer_Anfang_mit_Jekyll-Now/Verzeichnisstruktur.png)
 
 # Seitennamen, Beschreibung und Bild festlegen  
 
