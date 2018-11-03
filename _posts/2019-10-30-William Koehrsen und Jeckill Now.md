@@ -8,6 +8,8 @@ Ein guter Einstieg ist die Datei "Readme.md". Dort wird erklärt (en), wie die S
 
 Die Anpassungen die hier dokumentiert werden, sind von unterschiedlicher Verständnistiefe. Ein kurzes nachschlagen auf [SelfHTML](https://wiki.selfhtml.org/wiki/Startseite) oder [W3Schools](https://www.w3schools.com) sollte fehlenden Wissen schnell aufbauen.  
 
+Mit dem Befehl "Tree" der Windows Shell (CMD.EXE) ein kurzer Überblick wie die Datei und Verzeichnisstruktur aussieht.  
+
 ![Baum](../Ein_neuer_Anfang_mit_Jekyll-Now/Verzeichnisstruktur.png)
 
 # Seitennamen, Beschreibung und Bild festlegen  
