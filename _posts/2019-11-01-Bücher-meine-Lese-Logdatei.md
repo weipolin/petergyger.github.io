@@ -1,20 +1,28 @@
-Meine Logdatei mit Notizen und Stichworten zu den gelesenen Büchern.  
+Meine Logdatei mit Notizen und Stichworten zu den gelesenen Büchern.  Die Software Calibre ist die Software mit der ich die Bücher (Digital und Papier) verwalte. D.h. zu jedem Buch den Vermerk gelesen mit Datum, Stichworten, Teil einer Serie, etc. Trotz wiederholter Anfrage bietet kein schweizer Buchhändler eine Wunschliste für die Kunden an. Daher hier der Verweis auf meine Amazon [Wunschliste](https://www.amazon.de/gp/registry/wishlist?ref=nav_wishlist_btn)  
 
-# Introducing Windows 10 for IT Professionals (Preview Edition)
+
+# November 2018  
+
+
+# Vor Oktober 2018
+
+## Introducing Windows 10 for IT Professionals (Preview Edition)
 
 [![Cover](../Bücher-meine-Lese-Logdatei/Introducing_Windows_10_ for_ IT_ Professionals.jpg)](https://blogs.msdn.microsoft.com/microsoft_press/2016/02/08/free-ebook-introducing-windows-10-for-it-professionals-technical-overview/)  
 
+| Titel:    | Introducing Windows 10 for IT Professionals (Preview Edition)  | 
 | Autor:    | Ed Bott   | 
 | Verlag:   | Microsoft Press   | 
 | ISBN:     |     | 
 
 Eine von Ed Bott gewohnt gründliche Einführung. Basis des Buches war die Betaversion. Oft sind es Details wie das der Befehl „netsh“ zugunsten von Powershell cmdlets ausläuft, die man zu schätzen weiss.  
 
-# Computernetze kompakt  
+## Computernetze kompakt  
 
 [![Cover](../Bücher-meine-Lese-Logdatei/computernetzwerk_compact.jpg)](https://www.springer.com/de/book/9783662574683) 
 
-| Autor:    | Ed Bott   | 
+| Titel:    | Computernetze kompakt  | 
+| Autor:    | Dr. Christian Baum   | 
 | Verlag:   | Springer Verlag   | 
 | ISBN:     | 978-3-662-57469-0    | 
 
@@ -22,10 +30,11 @@ Netzwerk	Christian Baun orientiert sich am OSI Modell und knapp und klar die wes
 
 Dank der konsequenten Ausrichtung auf dieses Modell verliert man den roten Faden nicht D.h. die Groborientierung ist gewährleistet.
 
-# Als auf der Welt das Licht ausging  
+## Als auf der Welt das Licht ausging  
 
 [![Cover](../Bücher-meine-Lese-Logdatei/als_auf_der_welt_das_licht_ausging.jpg)](https://www.hanser-fachbuch.de/buch/Als+auf+der+Welt+das+Licht+ausging/9783446439603) 
 
+| Titel:    | Als auf der Welt das Licht ausging  | 
 | Autor:    | Tom de Marco   | 
 | Verlag:   | Der Carl Hanser Verlag   | 
 | ISBN:     | 978-3-446-43960-3    | 
