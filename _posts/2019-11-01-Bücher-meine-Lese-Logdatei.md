@@ -5,6 +5,17 @@ Trotz wiederholter Anfrage bietet kein schweizer Buchhändler eine Wunschliste f
 
 # November 2018  
 
+## Shitstorms Der Zusammenprall digitaler Kulturen
+
+[![Cover](../Bücher-meine-Lese-Logdatei/shitstorms.jpg)](https://www.springer.com/us/book/9783658199548)  
+
+| Titel:    | Shitstorms Der Zusammenprall digitaler Kulturen | 
+| Autor:    | Christian Stegbauer   | 
+| Verlag:   | Springer Verlag   | 
+| ISBN:     | 978-3-658-19955-5   | 
+
+Was früher der Saubannerzug war, ist in der digitalen Welt der Shitstorm. In der postfaktischen Welt sind Emotionen und nicht Fakten bzw. Logik die Grundlage der Entscheidung. Wie das ein Professor aus Sicht seiner akademischen Welt das interpretiert, dass will ich wissen.  
+
 
 # Vor Oktober 2018
 
@@ -15,7 +26,7 @@ Trotz wiederholter Anfrage bietet kein schweizer Buchhändler eine Wunschliste f
 | Titel:    | Introducing Windows 10 for IT Professionals (Preview Edition)  | 
 | Autor:    | Ed Bott   | 
 | Verlag:   | Microsoft Press   | 
-| ISBN:     |     | 
+| ISBN:     | none    | 
 
 Eine von Ed Bott gewohnt gründliche Einführung. Basis des Buches war die Betaversion. Oft sind es Details wie das der Befehl „netsh“ zugunsten von Powershell cmdlets ausläuft, die man zu schätzen weiss.  
 
@@ -63,7 +74,7 @@ Flüssig geschriebener Überflug über Windows 10 für Fortgeschrittene. Das Buc
 
 ## Windows Server 2012 R2 - Das umfassende Handbuch
 
-[![Cover](../Bücher-meine-Lese-Logdatei/winserver2012-handbuch.jpg)](http://openbook.rheinwerk-verlag.de/windows_server_2012r2/) 
+[![Cover](../Bücher-meine-Lese-Logdatei/winserver2012-handbuch.png)](http://openbook.rheinwerk-verlag.de/windows_server_2012r2/) 
 
 | Titel:    | Windows Server 2012 R2 - Das umfassende Handbuch  | 
 | Autor:    | Ulrich B. Boddenberg   | 
@@ -71,13 +82,4 @@ Flüssig geschriebener Überflug über Windows 10 für Fortgeschrittene. Das Buc
 | ISBN:     | ISBN 978-3-8362-2013-2    | 
 
 Umfassende Einführung in Windows Server 2012. Ideal für Einsteiger die sorgfältig recherchierte und sorgfältig publizierte Informationen suchen. Wird vom Verlag in der Reihe <Open Book> kostenlos online angeboten. Aber... wer einmal ein gedrucktes Buch aus dem Rheinwerk Verlag in den Fingern hatte, wird nie wieder darauf verzichten wollen. Das ist Buchdruckkunst vom Feinsten. Etwas was es im 21. Jahrhundert gar nicht mehr geben dürfte. Sehr zu empfehlen.  
-
-### Leseproben:  
-
-* [Neuerungen in Windows 10](https://www.dpunkt.de/common/leseproben//12616/2_Neuerungen%20in%20Windows%2010.pdf)
-* [Schützen von Windows 10-Geräten](https://www.dpunkt.de/common/leseproben//12616/3_Sch%C3%BCtzen%20von%20Windows%2010-Ger%C3%A4ten.pdf)
-* [Verwenden der Systemverwaltung](https://www.dpunkt.de/common/leseproben//12321/3_Verwenden%20der%20Systemverwaltung.pdf)
-* [Automatisieren von Windows 10](https://www.dpunkt.de/common/leseproben//12321/4_Automatisieren%20von%20Windows%2010.pdf)
-  
-  
 
