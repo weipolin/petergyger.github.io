@@ -38,7 +38,7 @@ Meine installierten AddOns:
 Bis jetzt in der Version 2.1 hat es keinen Menueintrag um den Browser betreffend Push Nachrichten zu konfigurieren. Man muss sich über folgenden Workaround zu den zentralen Einstellungen durchklicken:  
 
 * Beliebige Webseite aufrufen
-* Links von der URL auf das Icon (!["Seiteninformation"](../VIVALDI/seiteninformation.jpg)) klicken und den Menupunkt "Website-Einstellungen" anklicken
+* Links von der URL auf das Icon  !["Seiteninformation"](../VIVALDI/seiteninformation.jpg)  klicken und den Menupunkt "Website-Einstellungen" anklicken
 * Auf den Pfeil links des Titels der Website klicken, damit man von den spezifischen Einstellungen dieser Website zu den übergeordneten allgemeinen Einstellungen ("Inhaltseinstellungen") gelangt.    
 
 ![Seiteninformation](../VIVALDI/seiteninformation1.jpg)  
