@@ -1,4 +1,4 @@
-In der Windowswelt hat man die grösste Auswahl an Software. [Foobar2000](http://www.foobar2000.org) ist seit 2002 der Audioplayer für Nerds. Wobei Player irreführend ist, da auch CDs gerippt werden können, Tags editiert, etc. Der spartanischen Oberfläche stehen die ausgefeilten Funktionen gegenüber. Die Software kann kostenlos genutzt werden und ist "closed Source". Jedoch hat der Entwickler Peter Pawloski ein umfangreiches Entwicklerpaket unter BSD Lizenz veröffentlicht. Nebst seinen umfangreichen Konfigurationsmöglichkeiten ist die grosse Auswahl an Zusatzsoftware (Plugins) ein Vorteil. Der Programmierer betont auch in der FAQ ausdrücklich, dass die Klangqualität nicht besser als bei anderen Softwaren sei. D.h. das es hier einen technischen Stand (Hardware / Software) gibt, der sich allgemein durchgesetzt hat.
+In der Windowswelt hat man die grösste Auswahl an Software. [Foobar2000](http://www.foobar2000.org) ist seit 2002 der Audioplayer für Nerds. Wobei Player irreführend ist, da auch CDs gerippt werden können, Tags editiert, etc. Der spartanischen Oberfläche stehen die ausgefeilten Funktionen gegenüber. Die Software kann kostenlos genutzt werden und ist "closed Source". Jedoch hat der Entwickler Peter Pawloski ein umfangreiches Entwicklerpaket unter BSD Lizenz veröffentlicht. Daher hat es eine grosse Auswahl an Zusatzsoftware (Plugins). Ein weiterer Pluspunkt ist die sehr weitgehende Konfigurationsmöglichkeiten dieses Tools. Und - last but not least - die Kommandozeile (CLI) wird unterstützt.
 
 Wie immer ist auch dieser POst aus meiner Praxis und bezogen auf die aktuelle Version 1.4 unter Windows 10 (Build 17134.345).  
 
@@ -18,7 +18,7 @@ Das Ziel des Postes ist es, dass Tool Foobar2000 aus meiner Praxis vorzustellen.
 # Installation  
 
 Man hat die Wahl zwischen einer portablen ![portablen](..\foobar\install.png)und einer Vollinstallation für alle Windowsbenutzer. Der Unterschied ist, dass die Verknüpfung- mit Dateierweiterungen nur in der Vollinstallation erfolgt. 
- Die Installationsoptionen sind i.d.R. für die allermeisten Fälle sinnvoll und beanspruchen wenig Resourcen:  
+ Die [Installationsoptionen](http://wiki.hydrogenaud.io/index.php?title=Foobar2000:Components#Included_in_the_installer) sind i.d.R. für die allermeisten Fälle sinnvoll und beanspruchen wenig Resourcen:  
 
 ![Optionen](..\foobar\install-option.png)  
 
@@ -33,13 +33,16 @@ Mit der installierten Version von Foobar kann man wie folgt die Musikdateien lad
    1. Über den Menupunkt "File"   ![FileMenu](..\foobar\filemenu.png)
    2. Über die Medienbibliothek (nachdem sie eingerichtet ist)  ![FileMenu](..\foobar\library.png)
    3- Über Shortcuts. Default ist auf [Hydrogenaudio](https://wiki.hydrogenaud.io/index.php?title=Foobar2000:Preferences:General:Keyboard_Shortcuts#Key) dokumentiert.  
-   4. CLI (cmd.exe / Powershell). Doku ist auf [Hydrogenaudio](https://wiki.hydrogenaud.io/index.php?title=Foobar2000:Commandline_Guide) zu finden.  
+   1. CLI (cmd.exe / Powershell). Doku ist auf [Hydrogenaudio](https://wiki.hydrogenaud.io/index.php?title=Foobar2000:Commandline_Guide) zu finden.  
 
 ## Musikdatenbank
 
 Über "Library", Untermenupunkt "Configure" gelangt man auf die Konfigurationsseite.  
 
-!(..\foobar\preferences.pgn)  
+!(..\foobar\preferences.png)  
+
+Im Abschnitt "MusiC folders" sind die Verzeichnisse anzugeben, die danach Foobar2000 selbständig aktualisiert. Im Abschnitt "File types" stehen keine Einträge, da ich in der Musiksammlung nur zwei Dateitypen ("Flac" / "MP3") habe. Im Abschnitt "Library viewer selection playlist" aktiviere ich "enabled". Dadurch wird automatisch eine Playliste über alle Musikstücke in der Library erstellt. Die Konfiguration mit "OK" bestätigen.  
+
 
 
 
@@ -50,3 +53,4 @@ Mit der installierten Version von Foobar kann man wie folgt die Musikdateien lad
 * [Foobar.org: FAQ](https://www.foobar2000.org/FAQ)
 * [Deutsches Foobar Forum](http://foobar-users.de/index.php)
 * [HydrogenAudio](https://hydrogenaud.io/index.php?PHPSESSID=e5or8l3adon8cu3m59rj1l51p6&board=28.0)
+* [Reddit](https://www.reddit.com/r/foobar2000/)
