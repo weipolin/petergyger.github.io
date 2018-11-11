@@ -4,7 +4,7 @@ Wie immer ist auch dieser POst aus meiner Praxis und bezogen auf die aktuelle Ve
 
 # Was dazu gehört und in diesem Post nicht der Platz dafür ist
 
-Das Ziel des Postes ist es, dass Tool Foobar2000 aus meiner Praxis vorzustellen. Vorgängig sollte man die eigene Antwort auf folgende FRagen gefunden haben:  
+Das Ziel des Postes ist es, dass Tool Foobar2000 aus meiner Praxis vorzustellen. Vorgängig sollte man die eigene Antwort auf folgende Fragen gefunden haben:  
 
 * Dateien benennen und Ordnerstruktur wie (Nomenklatura) anlegen?  
 ** Wenn ein Album aus mehr als einem Datenträger besteht, die Dateien in separaten Verzeichnissen ablegen?
@@ -13,15 +13,16 @@ Das Ziel des Postes ist es, dass Tool Foobar2000 aus meiner Praxis vorzustellen.
 * Welches Dateiformat (MP3 / FLAC / ETC.)?  
 * Tags: Welche Tags nutzen? Welche Informationen sollen in den Tags abgelegt werden?
 * Welche Geräte / Betriebssyteme / Applikationen / Netzprotokolle sollen Zugriff auf die Musik erhalten?
+* ...
 
 # Installation  
 
 Man hat die Wahl zwischen einer portablen ![portablen](..\foobar\install.png)und einer Vollinstallation für alle Windowsbenutzer. Der Unterschied ist, dass die Verknüpfung- mit Dateierweiterungen nur in der Vollinstallation erfolgt. 
  Die Installationsoptionen sind i.d.R. für die allermeisten Fälle sinnvoll und beanspruchen wenig Resourcen:  
 
-![Optionen]()(..\foobar\install-option.png)  
+![Optionen](..\foobar\install-option.png)  
 
-# Musik hübsch präsentiert
+# Musik abspielen
 
 Der nächste Schritt ist nun Foobar so zu konfigurieren, dass er die digitale Musik "findet". Der darauf folgende Schritt wird die Oberfläche sein, wo man viele gestalterische Freiheiten und Zusatzsoftware hat.
 
@@ -29,10 +30,16 @@ Mit der installierten Version von Foobar kann man wie folgt die Musikdateien lad
 *  Datei abspielen: Rechtsklick auf die Datei (MP3 / Flac), Menupunkt "Öffnen mit" anklicken und Foobar2000 auswählen
 *  Datei mit Foobar verknüpfen: Wie oben. Jedoch diesmal "Andere App auswählen" anklicken. Foobar2000 auswählen und den Haken "Immer diese..." setzen.  ![Windows](..\foobar\dateityp.png)  
 *  Mit Foobar2000 direkt  
-   * Über den Menupunkt "File"   ![FileMenu](..\foobar\filemenu.png)
-   * Über die Medienbibliothek (nachdem sie eingerichtet ist)  ![FileMenu](..\foobar\library.png)
-   * Über Shortcuts. Default ist auf [Hydrogenaudio](https://wiki.hydrogenaud.io/index.php?title=Foobar2000:Preferences:General:Keyboard_Shortcuts#Key) dokumentiert.  
-   * CLI (cmd.exe / Powershell). Doku ist auf [Hydrogenaudio](https://wiki.hydrogenaud.io/index.php?title=Foobar2000:Commandline_Guide) zu finden.  
+   1. Über den Menupunkt "File"   ![FileMenu](..\foobar\filemenu.png)
+   2. Über die Medienbibliothek (nachdem sie eingerichtet ist)  ![FileMenu](..\foobar\library.png)
+   3- Über Shortcuts. Default ist auf [Hydrogenaudio](https://wiki.hydrogenaud.io/index.php?title=Foobar2000:Preferences:General:Keyboard_Shortcuts#Key) dokumentiert.  
+   4. CLI (cmd.exe / Powershell). Doku ist auf [Hydrogenaudio](https://wiki.hydrogenaud.io/index.php?title=Foobar2000:Commandline_Guide) zu finden.  
+
+## Musikdatenbank
+
+Über "Library", Untermenupunkt "Configure" gelangt man auf die Konfigurationsseite.  
+
+!(..\foobar\preferences.pgn)  
 
 
 
