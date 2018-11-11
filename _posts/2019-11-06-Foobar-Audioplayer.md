@@ -1,6 +1,6 @@
 In der Windowswelt hat man die grösste Auswahl an Software. [Foobar2000](http://www.foobar2000.org) ist seit 2002 der Audioplayer für Nerds. Wobei Player irreführend ist, da auch CDs gerippt werden können, Tags editiert, etc. Der spartanischen Oberfläche stehen die ausgefeilten Funktionen gegenüber. Die Software kann kostenlos genutzt werden und ist "closed Source". Jedoch hat der Entwickler Peter Pawloski ein umfangreiches Entwicklerpaket unter BSD Lizenz veröffentlicht. Daher hat es eine grosse Auswahl an Zusatzsoftware (Plugins). Ein weiterer Pluspunkt ist die sehr weitgehende Konfigurationsmöglichkeiten dieses Tools. Und - last but not least - die Kommandozeile (CLI) wird unterstützt.
 
-Wie immer ist auch dieser POst aus meiner Praxis und bezogen auf die aktuelle Version 1.4 unter Windows 10 (Build 17134.345).  
+Wie immer ist auch dieser Post aus meiner Praxis und bezogen auf die aktuelle Version 1.4 unter Windows 10 (Build 17134.345).  
 
 # Was dazu gehört und in diesem Post nicht der Platz dafür ist
 
@@ -37,11 +37,14 @@ Mit der installierten Version von Foobar kann man wie folgt die Musikdateien lad
 
 ## Musikdatenbank
 
-Über "Library", Untermenupunkt "Configure" gelangt man auf die Konfigurationsseite.  
+Das anlegen der Musikdatenbank ist die Grundlage der effizienten Nutzung von Foobar2000. Wer einfach nur seinen Künstler oder bestimmte Alben hören will, wird ohne glücklich. Dem Sammler bzw. Geniesser der in seinen Schätzen baden will, analog Dagobert Duck in seinen Dukaten, muss eine Datenbank erstellen. Über "Library", Untermenupunkt "Configure" gelangt man auf die Konfigurationsseite.  
 
-!(..\foobar\preferences.png)  
+![Preferences](..\foobar\preferences.png)  
 
-Im Abschnitt "MusiC folders" sind die Verzeichnisse anzugeben, die danach Foobar2000 selbständig aktualisiert. Im Abschnitt "File types" stehen keine Einträge, da ich in der Musiksammlung nur zwei Dateitypen ("Flac" / "MP3") habe. Im Abschnitt "Library viewer selection playlist" aktiviere ich "enabled". Dadurch wird automatisch eine Playliste über alle Musikstücke in der Library erstellt. Die Konfiguration mit "OK" bestätigen.  
+Im Abschnitt "MusiC folders" sind die Verzeichnisse anzugeben, die danach Foobar2000 selbständig aktualisiert. Solange in der Spalte "Pending" steht, verarbeitet Foobar2000 noch die Musiksammlung. Im Abschnitt "File types" stehen keine Einträge, da ich in der Musiksammlung nur zwei Dateitypen ("Flac" / "MP3") habe. Im Abschnitt "Library viewer selection playlist" aktiviere ich "enabled". Dadurch wird automatisch eine Playliste über alle Musikstücke in der Library erstellt. Die Konfiguration mit "OK" bestätigen.  
+
+Über die Komponente "Album List" (Menu "Library") wird der Inhalt der Datenbank als Verzeichnisbaum dargestellt. Im Menupunkt "View" kann die Sortierung bestimmt werden. Die Struktur dieser Abfragesprache wird in diesem Artikel von [audiohq](https://www.audiohq.de/viewtopic.php?id=1089) erklärt.  
+![](foobar/album-list.png)
 
 
 
