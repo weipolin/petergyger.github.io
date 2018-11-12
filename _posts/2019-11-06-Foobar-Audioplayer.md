@@ -48,7 +48,12 @@ Im Abschnitt "MusiC folders" sind die Verzeichnisse anzugeben, die danach Foobar
 
 # Optik  
 
-Die Oberfläche von Foobar2000 sieht aus wie ein MS DOS Programm. In diesem Abschnitt geht es unter anderem darum, wie man diese Oberfläche gestalten kann.
+Die [Oberfläche](https://www.foobar2000.org/screenshots) von Foobar2000 sieht aus wie ein MS DOS Programm. In diesem Abschnitt geht es unter anderem darum, wie man diese Oberfläche ("UI = User Interface") gestalten kann. Beispiele dafür findet man hier:
+[YouTube: Demo eines Anwenders](https://www.youtube.com/watch?v=s-GOWSfX3X8)  
+[Hydrogen: Default UI Gallery](https://hydrogenaud.io/index.php?PHPSESSID=njne49qs158lkq1k8ft97b8bg1&topic=58574.475)
+[Devian Art: Foo-Nation](https://www.deviantart.com/popular-all-time/?section=&global=1&q=foobar2000&offset=0)  
+
+Das Fundament für die Optik wird durch die gepflegte Albumsammlung mit den entsprechenden Bildern gelegt.  
 
 ## Cover  
 
@@ -56,7 +61,7 @@ Ein Album hat eine eigene Identität, was sich im Cover ausdrückt. Was in der a
 * Front Cover (Vorderseite)
 * Back cover  (Rückseite)
 * Artist       (Künstler) 
-* Disc         (Datenträger)
+* Disc         (Datenträger)  
 In den Einstellungen ("Preferences") legt man fest, wie die Bilddateien benannt sind. Die Voreinstellungen sollte man so belassen, da die meisten Programme die selben Namen verwenden:  
 ![](../foobar/display.png)  
 * Front Cover:    cover.jpg
@@ -64,9 +69,18 @@ In den Einstellungen ("Preferences") legt man fest, wie die Bilddateien benannt 
 * Artist:         artist.jpg
 * Disc:           disc.jpg
 
-Ein Album, dass aus mehreren Datenträgern besteht speichere ich in einem Verzeichnis. In der Option "Stub image path" kann eine Bilddatei angegeben werden, welche im Albumverzeichnis kein Bild gefunden wird. Diese Option verwende ich nicht, da dank Internet und Suchmaschine immer eine passende Covergrafik gespeichert werden kann.  
+Ein Album, dass aus mehreren Datenträgern besteht speichere ich in einem Verzeichnis. Die Information von welchem Datenträger die Audiodatei stammt, wird in den Tags (Metaebene) gespeichert.  
+In der Option "Stub image path" kann eine Bilddatei angegeben werden, welche im Albumverzeichnis kein Bild gefunden wird. Diese Option verwende ich nicht, da dank Internet und Suchmaschine immer eine passende Covergrafik gespeichert werden kann. Wer Ideen für solche "No Cover" Bilder sucht, sollte diesen [Thread](https://hydrogenaud.io/index.php/topic,34341.0.html) lesen  
 Fortgeschrittene Einstellungen sind in einem eigenen Untermenupunkt namens "Advanced" im Menu "Preferences". In bestimmten Situationen, die den Rahmen dieses Posts sprengen, müssen hier Änderungen vorgenommen werden.  
-![](../foobar/display.png)  
+![](../foobar/display-ad.png)   
+
+## User Interface
+
+Wenn Foobar2000 nach der Installation das erste Mal gestartet wird, öffnet sich automatisch der "Quick setup" ("View" -> "Layout" -> "Quick Setup"). Praktisch ist, dass jede Änderung in diesem Konfigurationstool sofort in Foobar umgesetzt wird. D.h. im Sinne von "Best Practice" spielt man eine Audio Datei ab und experimentiert. Wenn die Musiksammlung richtig getaggt und bebildert ist, könnte das nach drei Klicks ("Main Layout" / "Colors" / "Playlist Layout") so aussehen.  
+
+![](../foobar/UI-Quick.png)   
+
+Auch hier kann über "Preferences" -> "Display" -> "Default User Interface" sehr vieles angepasst werden. Über "View" -> "Layout" -> "Enable layout editing mode" kann die im Quick Setup definierte Oberfläche konfiguriert werden. Mit dem ersten Aufruf wird eine Erläuterung gezeigt. Die Bedienung ist einfach. Mit der rechten Maustaste das Objekt anklicken und im Kontextmenu den entsprechenden Befehl anklicken. Mit den zusätzlichen Stichworten "Container" und "Splitter" sollte Internetsuchmaschine weiteführende Anleitungen anzeigen. Über Theme speichern kann die Oberfläche als Datei gesichert werden.
 
 # Quellen
 
@@ -74,3 +88,4 @@ Fortgeschrittene Einstellungen sind in einem eigenen Untermenupunkt namens "Adva
 * [Deutsches Foobar Forum](http://foobar-users.de/index.php)
 * [HydrogenAudio](https://hydrogenaud.io/index.php?PHPSESSID=e5or8l3adon8cu3m59rj1l51p6&board=28.0)
 * [Reddit](https://www.reddit.com/r/foobar2000/)
+* [Mpex.net: Software(http://www.mpx.net/forum/viewforum.php?f=5)]
