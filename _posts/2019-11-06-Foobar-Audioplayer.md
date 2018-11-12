@@ -82,7 +82,7 @@ Wenn Foobar2000 nach der Installation das erste Mal gestartet wird, öffnet sich
 
 Auch hier kann über "Preferences" -> "Display" -> "Default User Interface" sehr vieles angepasst werden. Über "View" -> "Layout" -> "Enable layout editing mode" kann die im Quick Setup definierte Oberfläche konfiguriert werden. Mit dem ersten Aufruf wird eine Erläuterung gezeigt. Die Bedienung ist einfach. Mit der rechten Maustaste das Objekt anklicken und im Kontextmenu den entsprechenden Befehl anklicken. Mit den zusätzlichen Stichworten "Container" und "Splitter" sollte Internetsuchmaschine weiteführende Anleitungen anzeigen. Über "Export Theme" (Preferences) kann die Oberfläche als Datei gesichert werden.  
 
-
+Auch wenn die englische Oberfläche für nicht Techniker abschreckend wirken könnte, so behaupte ich das die Obefläche des Programmes intuitiv und leicht verständlich ist. Seit über 10 Jahren begeistert das Programm viele Nutzer.
 
 # Quellen
 
@@ -90,4 +90,4 @@ Auch hier kann über "Preferences" -> "Display" -> "Default User Interface" sehr
 * [Deutsches Foobar Forum](http://foobar-users.de/index.php)
 * [HydrogenAudio](https://hydrogenaud.io/index.php?PHPSESSID=e5or8l3adon8cu3m59rj1l51p6&board=28.0)
 * [Reddit](https://www.reddit.com/r/foobar2000/)
-* [Mpex.net: Software](http://www.mpx.net/forum/viewforum.php?f=5)]
+* [Mpex.net: Software](http://www.mpx.net/forum/viewforum.php?f=5)
