@@ -41,7 +41,7 @@ Das anlegen der Musikdatenbank ist die Grundlage der effizienten Nutzung von Foo
 
 ![Preferences](..\foobar\preferences.png)  
 
-Im Abschnitt "MusiC folders" sind die Verzeichnisse anzugeben, die danach Foobar2000 selbständig aktualisiert. Solange in der Spalte "Pending" steht, verarbeitet Foobar2000 noch die Musiksammlung. Im Abschnitt "File types" stehen keine Einträge, da ich in der Musiksammlung nur zwei Dateitypen ("Flac" / "MP3") habe. Im Abschnitt "Library viewer selection playlist" aktiviere ich "enabled". Dadurch wird automatisch eine Playliste über alle Musikstücke in der Library erstellt. Die Konfiguration mit "OK" bestätigen.  
+Im Abschnitt "Music folders" sind die Verzeichnisse anzugeben, die danach Foobar2000 selbständig aktualisiert. Solange in der Spalte "Pending" steht, verarbeitet Foobar2000 noch die Musiksammlung. Im Abschnitt "File types" stehen keine Einträge, da ich in der Musiksammlung nur zwei Dateitypen ("Flac" / "MP3") habe. Im Abschnitt "Library viewer selection playlist" aktiviere ich "enabled". Dadurch wird automatisch eine Playliste über alle Musikstücke in der Library erstellt. Die Konfiguration mit "OK" bestätigen.  
 
 Über die Komponente "Album List" (Menu "Library") wird der Inhalt der Datenbank als Verzeichnisbaum dargestellt. Im Menupunkt "View" kann die Sortierung bestimmt werden. Die Struktur dieser Abfragesprache wird in diesem Artikel von [audiohq](https://www.audiohq.de/viewtopic.php?id=1089) erklärt. Alternativ kann auch der Untermenupunkt "Search" verwendet werden, um die Datenbank nach Stichworten zu durchsuchen.  
 ![](../foobar/album-list.png)
@@ -49,9 +49,9 @@ Im Abschnitt "MusiC folders" sind die Verzeichnisse anzugeben, die danach Foobar
 # Optik  
 
 Die [Oberfläche](https://www.foobar2000.org/screenshots) von Foobar2000 sieht aus wie ein MS DOS Programm. In diesem Abschnitt geht es unter anderem darum, wie man diese Oberfläche ("UI = User Interface") gestalten kann. Beispiele dafür findet man hier:
-[YouTube: Demo eines Anwenders](https://www.youtube.com/watch?v=s-GOWSfX3X8)  
-[Hydrogen: Default UI Gallery](https://hydrogenaud.io/index.php?PHPSESSID=njne49qs158lkq1k8ft97b8bg1&topic=58574.475)
-[Devian Art: Foo-Nation](https://www.deviantart.com/popular-all-time/?section=&global=1&q=foobar2000&offset=0)  
+* [YouTube: Demo eines Anwenders](https://www.youtube.com/watch?v=s-GOWSfX3X8)  
+* [Hydrogen: Default UI Gallery](https://hydrogenaud.io/index.php?PHPSESSID=njne49qs158lkq1k8ft97b8bg1&topic=58574.475)
+* [Devian Art: Foo-Nation](https://www.deviantart.com/popular-all-time/?section=&global=1&q=foobar2000&offset=0)  
 
 Das Fundament für die Optik wird durch die gepflegte Albumsammlung mit den entsprechenden Bildern gelegt.  
 
@@ -80,7 +80,9 @@ Wenn Foobar2000 nach der Installation das erste Mal gestartet wird, öffnet sich
 
 ![](../foobar/UI-Quick.png)   
 
-Auch hier kann über "Preferences" -> "Display" -> "Default User Interface" sehr vieles angepasst werden. Über "View" -> "Layout" -> "Enable layout editing mode" kann die im Quick Setup definierte Oberfläche konfiguriert werden. Mit dem ersten Aufruf wird eine Erläuterung gezeigt. Die Bedienung ist einfach. Mit der rechten Maustaste das Objekt anklicken und im Kontextmenu den entsprechenden Befehl anklicken. Mit den zusätzlichen Stichworten "Container" und "Splitter" sollte Internetsuchmaschine weiteführende Anleitungen anzeigen. Über Theme speichern kann die Oberfläche als Datei gesichert werden.
+Auch hier kann über "Preferences" -> "Display" -> "Default User Interface" sehr vieles angepasst werden. Über "View" -> "Layout" -> "Enable layout editing mode" kann die im Quick Setup definierte Oberfläche konfiguriert werden. Mit dem ersten Aufruf wird eine Erläuterung gezeigt. Die Bedienung ist einfach. Mit der rechten Maustaste das Objekt anklicken und im Kontextmenu den entsprechenden Befehl anklicken. Mit den zusätzlichen Stichworten "Container" und "Splitter" sollte Internetsuchmaschine weiteführende Anleitungen anzeigen. Über "Export Theme" (Preferences) kann die Oberfläche als Datei gesichert werden.  
+
+
 
 # Quellen
 
@@ -88,4 +90,4 @@ Auch hier kann über "Preferences" -> "Display" -> "Default User Interface" sehr
 * [Deutsches Foobar Forum](http://foobar-users.de/index.php)
 * [HydrogenAudio](https://hydrogenaud.io/index.php?PHPSESSID=e5or8l3adon8cu3m59rj1l51p6&board=28.0)
 * [Reddit](https://www.reddit.com/r/foobar2000/)
-* [Mpex.net: Software(http://www.mpx.net/forum/viewforum.php?f=5)]
+* [Mpex.net: Software](http://www.mpx.net/forum/viewforum.php?f=5)]
