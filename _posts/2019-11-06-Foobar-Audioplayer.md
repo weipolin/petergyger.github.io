@@ -43,13 +43,30 @@ Das anlegen der Musikdatenbank ist die Grundlage der effizienten Nutzung von Foo
 
 Im Abschnitt "MusiC folders" sind die Verzeichnisse anzugeben, die danach Foobar2000 selbständig aktualisiert. Solange in der Spalte "Pending" steht, verarbeitet Foobar2000 noch die Musiksammlung. Im Abschnitt "File types" stehen keine Einträge, da ich in der Musiksammlung nur zwei Dateitypen ("Flac" / "MP3") habe. Im Abschnitt "Library viewer selection playlist" aktiviere ich "enabled". Dadurch wird automatisch eine Playliste über alle Musikstücke in der Library erstellt. Die Konfiguration mit "OK" bestätigen.  
 
-Über die Komponente "Album List" (Menu "Library") wird der Inhalt der Datenbank als Verzeichnisbaum dargestellt. Im Menupunkt "View" kann die Sortierung bestimmt werden. Die Struktur dieser Abfragesprache wird in diesem Artikel von [audiohq](https://www.audiohq.de/viewtopic.php?id=1089) erklärt.  
-![](foobar/album-list.png)
+Über die Komponente "Album List" (Menu "Library") wird der Inhalt der Datenbank als Verzeichnisbaum dargestellt. Im Menupunkt "View" kann die Sortierung bestimmt werden. Die Struktur dieser Abfragesprache wird in diesem Artikel von [audiohq](https://www.audiohq.de/viewtopic.php?id=1089) erklärt. Alternativ kann auch der Untermenupunkt "Search" verwendet werden, um die Datenbank nach Stichworten zu durchsuchen.  
+![](../foobar/album-list.png)
 
+# Optik  
 
+Die Oberfläche von Foobar2000 sieht aus wie ein MS DOS Programm. In diesem Abschnitt geht es unter anderem darum, wie man diese Oberfläche gestalten kann.
 
+## Cover  
 
+Ein Album hat eine eigene Identität, was sich im Cover ausdrückt. Was in der analogen Welt (Schallplatte / CD) gilt, wird auch in der digitalen Welt so abgebildet. Foobar kennt pro Album vier Arten von Bildern, welche im Verzeichnis des Albums abgelegt sein müssen:      
+* Front Cover (Vorderseite)
+* Back cover  (Rückseite)
+* Artist       (Künstler) 
+* Disc         (Datenträger)
+In den Einstellungen ("Preferences") legt man fest, wie die Bilddateien benannt sind. Die Voreinstellungen sollte man so belassen, da die meisten Programme die selben Namen verwenden:  
+![](../foobar/display.png)  
+* Front Cover:    cover.jpg
+* Back cover:     back.jpg
+* Artist:         artist.jpg
+* Disc:           disc.jpg
 
+Ein Album, dass aus mehreren Datenträgern besteht speichere ich in einem Verzeichnis. In der Option "Stub image path" kann eine Bilddatei angegeben werden, welche im Albumverzeichnis kein Bild gefunden wird. Diese Option verwende ich nicht, da dank Internet und Suchmaschine immer eine passende Covergrafik gespeichert werden kann.  
+Fortgeschrittene Einstellungen sind in einem eigenen Untermenupunkt namens "Advanced" im Menu "Preferences". In bestimmten Situationen, die den Rahmen dieses Posts sprengen, müssen hier Änderungen vorgenommen werden.  
+![](../foobar/display.png)  
 
 # Quellen
 
