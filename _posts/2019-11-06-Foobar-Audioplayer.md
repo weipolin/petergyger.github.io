@@ -17,8 +17,9 @@ Das Ziel des Postes ist es, dass Tool Foobar2000 aus meiner Praxis vorzustellen.
 
 # Installation  
 
-Man hat die Wahl zwischen einer portablen ![portablen](..\foobar\install.png)und einer Vollinstallation für alle Windowsbenutzer. Der Unterschied ist, dass die Verknüpfung- mit Dateierweiterungen nur in der Vollinstallation erfolgt. 
- Die [Installationsoptionen](http://wiki.hydrogenaud.io/index.php?title=Foobar2000:Components#Included_in_the_installer) sind i.d.R. für die allermeisten Fälle sinnvoll und beanspruchen wenig Resourcen:  
+Man hat die Wahl zwischen einer portablen ![portablen](..\foobar\install.png)   
+und einer Vollinstallation für alle Windowsbenutzer. Der Unterschied ist, dass die Verknüpfung- mit Dateierweiterungen nur in der Vollinstallation erfolgt. 
+Die [Installationsoptionen](http://wiki.hydrogenaud.io/index.php?title=Foobar2000:Components#Included_in_the_installer) sind i.d.R. für die allermeisten Fälle sinnvoll und beanspruchen wenig Resourcen:  
 
 ![Optionen](..\foobar\install-option.png)  
 
