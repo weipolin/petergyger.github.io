@@ -6,13 +6,12 @@ Teil 1
 $folderinput="Z:\Peter\005 Beruf\Bewerbung\Chronologie\000 Eingang";
 Get-ChildItem -Path $folderinput -File | Measure-Object | %{$_.Count}
 
-
 # Monat ermitteln
 $datum = Get-Date
-# Zielverzeichnis gleich Monat in Zahl (Jan =1 / Feb = 2 / etc.)
+# Zielverzeichnis gleich Monat in Zahl (Jan =1 / Feb = 2 / etc.). Danach nach Namen sortiert die letzte Datei anzeigen.
 $folderoutput="Z:\Peter\005 Beruf\Bewerbung\Chronologie\" + $datum.Month;
 $test = Get-ChildItem -Path $folderoutput | select name, state -last 1
-
+$test.Split([char]3)
 
 
 # Verzeichnis des Eingages setzen

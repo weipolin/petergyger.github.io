@@ -9,10 +9,7 @@ $datum.month
 
 In Powershell sind alles Objekte. D.h. $datum ist keine Variable, sondern ein Objekt. Daher kann über die Variable die gleichen Methoden angewendet werden. Ich kann dem Objekt auch ein konkretes Datum vorgeben und z.B. fragen, was für ein Wochentag das es ist  
 
-![](..\powershell\get-culture.png)  
-
-
-
+![get-culture](..\powershell\get-culture.png)  
 
 
 
@@ -22,8 +19,10 @@ In Powershell sind alles Objekte. D.h. $datum ist keine Variable, sondern ein Ob
 
 ## Jahrestag in Datum konvertieren
 
+```
 $TempDate = ([datetime]"01/01/$((Get-Date).Year)").AddDays(140-1) $ShortDate = 
 $TempDate.ToShortDateString()
+```
 
 # Quellen
 
