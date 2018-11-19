@@ -17,7 +17,7 @@ In Powershell sind alles Objekte. D.h. $datum ist keine Variable, sondern ein Ob
 
 Natürlich muss das in Windows eingestellte Datum berücksichtigt werden. Ein Datum im US Format erwartet an der ersten Stelle den Monat. D.h. Werte über 12 führen zu einem Fehler. Das kann mit Get-Culture eingestellt werden. Dieser Windows 10 Computer ist von der Tastaturbelegung bis hin zu den Datumsformaten auf "Swiss German" eingestellt. Da ich als verwendete Sprache US Englisch auf dem Computer definiert habe, erfolgt die Ausgabe von Powershell in Englisch.  
 
-Der Befehl kann auch über die "[Standard Numeric Format Strings}(https://docs.microsoft.com/en-us/dotnet/standard/base-types/standard-numeric-format-strings)" formatiert (Gross- / Kleinschreibung beachten) werden:  
+Der Befehl kann auch über die "[Standard Numeric Format Strings](https://docs.microsoft.com/en-us/dotnet/standard/base-types/standard-numeric-format-strings)" formatiert (Gross- / Kleinschreibung beachten) werden:  
 
 ```
 C:\Users\info> Get-Date -Format F  
@@ -57,7 +57,7 @@ Die Microsoft Tech Net Serie ["Scripting Guide"](https://blogs.technet.microsoft
 Ein TimeSpan Wert stellt ein Zeitintervall dar und kann als eine bestimmte Anzahl von Tagen, Stunden, Minuten, Sekunden und Millisekunden ausgedrückt werden. Da es sich um eine allgemeine Intervall ohne Verweis auf einen bestimmten Start- oder Endpunkt darstellt, kann nicht es im Hinblick auf Jahren und Monaten, die eine Variable Anzahl von Tagen jeweils ausgedrückt werden. Es unterscheidet sich von einem DateTime -Wert, der ein Datum und Uhrzeit ohne Verweis auf eine bestimmte Zeitzone darstellt, oder ein DateTimeOffset Wert, der einem bestimmten Zeitpunkt darstellt.  
 
 Beispiele:  
-* """
+"""
 Wann wurde die Datei zuletzt geändert?    new-timespan -start (ls .\.gitconfig).lastwritetime
 """
 
