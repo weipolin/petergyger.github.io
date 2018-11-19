@@ -17,11 +17,11 @@ Das Ziel des Postes ist es, dass Tool Foobar2000 aus meiner Praxis vorzustellen.
 
 # Installation  
 
-Man hat die Wahl zwischen einer portablen ![portablen](..\foobar\install.png)   
+Man hat die Wahl zwischen einer portablen ![portablen](..\foobar\install.jpg)   
 und einer Vollinstallation für alle Windowsbenutzer. Der Unterschied ist, dass die Verknüpfung- mit Dateierweiterungen nur in der Vollinstallation erfolgt. 
 Die [Installationsoptionen](http://wiki.hydrogenaud.io/index.php?title=Foobar2000:Components#Included_in_the_installer) sind i.d.R. für die allermeisten Fälle sinnvoll und beanspruchen wenig Resourcen:  
 
-![Optionen](..\foobar\install-option.png)  
+![Optionen](..\foobar\install-option.jpg)  
 
 # Musik abspielen
 
@@ -29,10 +29,10 @@ Der nächste Schritt ist nun Foobar so zu konfigurieren, dass er die digitale Mu
 
 Mit der installierten Version von Foobar kann man wie folgt die Musikdateien laden:  
 *  Datei abspielen: Rechtsklick auf die Datei (MP3 / Flac), Menupunkt "Öffnen mit" anklicken und Foobar2000 auswählen
-*  Datei mit Foobar verknüpfen: Wie oben. Jedoch diesmal "Andere App auswählen" anklicken. Foobar2000 auswählen und den Haken "Immer diese..." setzen.  ![Windows](..\foobar\dateityp.png)  
+*  Datei mit Foobar verknüpfen: Wie oben. Jedoch diesmal "Andere App auswählen" anklicken. Foobar2000 auswählen und den Haken "Immer diese..." setzen.  ![Windows](..\foobar\dateityp.jpg)  
 *  Mit Foobar2000 direkt  
-   1. Über den Menupunkt "File"   ![FileMenu](..\foobar\filemenu.png)
-   2. Über die Medienbibliothek (nachdem sie eingerichtet ist)  ![FileMenu](..\foobar\library.png)
+   1. Über den Menupunkt "File"   ![FileMenu](..\foobar\filemenu.jpg)
+   2. Über die Medienbibliothek (nachdem sie eingerichtet ist)  ![FileMenu](..\foobar\library.jpg)
    3- Über Shortcuts. Default ist auf [Hydrogenaudio](https://wiki.hydrogenaud.io/index.php?title=Foobar2000:Preferences:General:Keyboard_Shortcuts#Key) dokumentiert.  
    1. CLI (cmd.exe / Powershell). Doku ist auf [Hydrogenaudio](https://wiki.hydrogenaud.io/index.php?title=Foobar2000:Commandline_Guide) zu finden.  
 
@@ -40,12 +40,12 @@ Mit der installierten Version von Foobar kann man wie folgt die Musikdateien lad
 
 Das anlegen der Musikdatenbank ist die Grundlage der effizienten Nutzung von Foobar2000. Wer einfach nur seinen Künstler oder bestimmte Alben hören will, wird ohne glücklich. Dem Sammler bzw. Geniesser der in seinen Schätzen baden will, analog Dagobert Duck in seinen Dukaten, muss eine Datenbank erstellen. Über "Library", Untermenupunkt "Configure" gelangt man auf die Konfigurationsseite.  
 
-![Preferences](..\foobar\preferences.png)  
+![Preferences](..\foobar\preferences.jpg)  
 
 Im Abschnitt "Music folders" sind die Verzeichnisse anzugeben, die danach Foobar2000 selbständig aktualisiert. Solange in der Spalte "Pending" steht, verarbeitet Foobar2000 noch die Musiksammlung. Im Abschnitt "File types" stehen keine Einträge, da ich in der Musiksammlung nur zwei Dateitypen ("Flac" / "MP3") habe. Im Abschnitt "Library viewer selection playlist" aktiviere ich "enabled". Dadurch wird automatisch eine Playliste über alle Musikstücke in der Library erstellt. Die Konfiguration mit "OK" bestätigen.  
 
 Über die Komponente "Album List" (Menu "Library") wird der Inhalt der Datenbank als Verzeichnisbaum dargestellt. Im Menupunkt "View" kann die Sortierung bestimmt werden. Die Struktur dieser Abfragesprache wird in diesem Artikel von [audiohq](https://www.audiohq.de/viewtopic.php?id=1089) erklärt. Alternativ kann auch der Untermenupunkt "Search" verwendet werden, um die Datenbank nach Stichworten zu durchsuchen.  
-![](../foobar/album-list.png)
+![](../foobar/album-list.jpg)
 
 # Optik  
 
@@ -64,7 +64,7 @@ Ein Album hat eine eigene Identität, was sich im Cover ausdrückt. Was in der a
 * Artist       (Künstler) 
 * Disc         (Datenträger)  
 In den Einstellungen ("Preferences") legt man fest, wie die Bilddateien benannt sind. Die Voreinstellungen sollte man so belassen, da die meisten Programme die selben Namen verwenden:  
-![](../foobar/display.png)  
+![](../foobar/display.jpg)  
 * Front Cover:    cover.jpg
 * Back cover:     back.jpg
 * Artist:         artist.jpg
@@ -73,13 +73,13 @@ In den Einstellungen ("Preferences") legt man fest, wie die Bilddateien benannt 
 Ein Album, dass aus mehreren Datenträgern besteht speichere ich in einem Verzeichnis. Die Information von welchem Datenträger die Audiodatei stammt, wird in den Tags (Metaebene) gespeichert.  
 In der Option "Stub image path" kann eine Bilddatei angegeben werden, welche im Albumverzeichnis kein Bild gefunden wird. Diese Option verwende ich nicht, da dank Internet und Suchmaschine immer eine passende Covergrafik gespeichert werden kann. Wer Ideen für solche "No Cover" Bilder sucht, sollte diesen [Thread](https://hydrogenaud.io/index.php/topic,34341.0.html) lesen  
 Fortgeschrittene Einstellungen sind in einem eigenen Untermenupunkt namens "Advanced" im Menu "Preferences". In bestimmten Situationen, die den Rahmen dieses Posts sprengen, müssen hier Änderungen vorgenommen werden.  
-![](../foobar/display-ad.png)   
+![](../foobar/display-ad.jpg)   
 
 ## User Interface
 
 Wenn Foobar2000 nach der Installation das erste Mal gestartet wird, öffnet sich automatisch der "Quick setup" ("View" -> "Layout" -> "Quick Setup"). Praktisch ist, dass jede Änderung in diesem Konfigurationstool sofort in Foobar umgesetzt wird. D.h. im Sinne von "Best Practice" spielt man eine Audio Datei ab und experimentiert. Wenn die Musiksammlung richtig getaggt und bebildert ist, könnte das nach drei Klicks ("Main Layout" / "Colors" / "Playlist Layout") so aussehen.  
 
-![](../foobar/UI-Quick.png)   
+![](../foobar/UI-Quick.jpg)   
 
 Auch hier kann über "Preferences" -> "Display" -> "Default User Interface" sehr vieles angepasst werden. Über "View" -> "Layout" -> "Enable layout editing mode" kann die im Quick Setup definierte Oberfläche konfiguriert werden. Mit dem ersten Aufruf wird eine Erläuterung gezeigt. Die Bedienung ist einfach. Mit der rechten Maustaste das Objekt anklicken und im Kontextmenu den entsprechenden Befehl anklicken. Mit den zusätzlichen Stichworten "Container" und "Splitter" sollte Internetsuchmaschine weiteführende Anleitungen anzeigen. Über "Export Theme" (Preferences) kann die Oberfläche als Datei gesichert werden.  
 
