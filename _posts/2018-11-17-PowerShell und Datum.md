@@ -1,4 +1,4 @@
-Notizen zu Powershell und Datum als Datentyp und Funktion.  
+Notizen zu Powershell und Datum als Datentyp und Funktion.  Lernrepetition.  
 
 Cmdlet "Get-Date" ist zuständig für Datumsinformationen. Mit ```get-date | get-member``` können die Funktionen aufgelistet werden. Z.B. ```(get-date).month```.  Alternativ kann man über eine Variable gehen:  
 
@@ -22,7 +22,8 @@ C:\Users\info> Get-Date -Format F
 C:\Users\info> Get-Date -Format f
 ```
 
-Das Argument Format kann auch mit .NET [- DateTimeFormatInfo Class -](https://docs.microsoft.com/en-us/dotnet/api/system.globalization.datetimeformatinfo?view=netframework-4.7.2)] formatiert werden. Mit dem Argument -UFormat können Parameter im Unix Format verwendet werden. Das verwenden des Format Argumentes garantiert, dass unabhängig von den Ländereinstellungen in Windows die Angabe im gleichen Format angezeigt wird.
+Das Argument Format kann auch mit .NET [- DateTimeFormatInfo Class -](https://docs.microsoft.com/en-us/dotnet/api/system.globalization.datetimeformatinfo?view=netframework-4.7.2)] formatiert werden. Mit dem Argument -UFormat können Parameter im Unix Format verwendet werden. Das verwenden des Format Argumentes garantiert, dass unabhängig von den Ländereinstellungen in Windows die Angabe im gleichen Format angezeigt wird.  
+
 ```
 Get-Date -Format yyyy-MM-dd
 ```
@@ -37,7 +38,25 @@ Wieviele Stunden des aktuellen Tages sind bereits vergangen?
 (Get-Date).TimeOfDay.TotalHours
 ```
 
+Das Datum des Computers kann mit dem Cmdlet ["Set-Date"](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/Measure-Command?view=powershell-5.1) gesetzt werden.  
+
+Das Datumsobjekt kann über die Methode "tostring" zu einem Text ("String") umgewandelt werden:  
+```
+([datetime]::now).tostring("dd.MM.yyyy HH:mm:ss")  
+([datetime]::now).tostring("MM\/dd\/yyyy|HH:mm:ss.fff")  
+```
+
 Die Microsoft Tech Net Serie ["Scripting Guide"](https://blogs.technet.microsoft.com/heyscriptingguy/2013/11/11/powertip-use-powershell-to-format-dates/) hat noch einen Überblick geschrieben
+
+# Timespan Objekt  
+
+Ein TimeSpan Wert stellt ein Zeitintervall dar und kann als eine bestimmte Anzahl von Tagen, Stunden, Minuten, Sekunden und Millisekunden ausgedrückt werden. Da es sich um eine allgemeine Intervall ohne Verweis auf einen bestimmten Start- oder Endpunkt darstellt, kann nicht es im Hinblick auf Jahren und Monaten, die eine Variable Anzahl von Tagen jeweils ausgedrückt werden. Es unterscheidet sich von einem DateTime -Wert, der ein Datum und Uhrzeit ohne Verweis auf eine bestimmte Zeitzone darstellt, oder ein DateTimeOffset Wert, der einem bestimmten Zeitpunkt darstellt.  
+
+Beispiele:  
+* """
+Wann wurde die Datei zuletzt geändert?    new-timespan -start (ls .\.gitconfig).lastwritetime
+"""
+
 
 # Rechnen
 
@@ -55,12 +74,9 @@ Weitere verwandte Funktionen:
 * AddMilliseconds
 * AddMinutes
 * AddMonths
-* AddSeconds
-* 
-AddTicks
-
-AddYears
-
+* AddSeconds  
+* AddTicks
+* AddYears  
 
 Und wieviele Tage es noch bis Weihnachten sind, ermittelt dieser Befehl:  
 
@@ -74,10 +90,7 @@ C:\Users\info> (Get-Date "24.12.2018").AddDays(7).ToString(“dd.MM.yyyy”)
 (Get-Date "24.12.2018").AddDays(7).AddHours(7).ToString(“dd.MM.yyyy_HH:mm”)
 ```
 
-
-
 # Codesnippets
-
 
 
 ## Jahrestag in Datum konvertieren
@@ -102,9 +115,12 @@ In diesem Zusammenhang sind noch folgende Funktionen relevant:
 * TotalHours
 * TotalDays
 
+Mit dem [Measure Command / Objekt}(https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/Measure-Command?view=powershell-5.1) kann direkt die Laufzeit eines Skriptes ermittelt werden.  
+
 
 # Quellen
 
 * [WindowsPro.de: Get-Date: Datum berechnen und formatieren in Powershell](https://www.windowspro.de/script/datum-berechnen-formatieren-powershell-get-date)  
-* [Microsoft Docs: Get-Date](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/get-date?view=powershell-6)  
+* [Microsoft Docs: Get-Date](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/get-date?view=powershell-6) 
 * [MS Windows PowerShell Tip of the Week: Formatting Numbers and Dates Using the CultureInfo Object](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-powershell-1.0/ff730954(v%3dtechnet.10))
+* [TimeSpan Objekt](https://docs.microsoft.com/de-de/dotnet/api/system.timespan?view=netframework-4.7.2)
