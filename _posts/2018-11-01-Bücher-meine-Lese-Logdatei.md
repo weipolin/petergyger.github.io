@@ -5,6 +5,19 @@ Trotz wiederholter Anfrage bietet kein schweizer Buchhändler eine Wunschliste f
 
 # November 2018  
 
+
+## Alexander v. Humboldt und die Erfindung der Natur
+
+[![Cover](../Bücher-meine-Lese-Logdatei/shitstorms.jpg)](https://www.randomhouse.de/Buch/Alexander-von-Humboldt-und-die-Erfindung-der-Natur/Andrea-Wulf/C-Bertelsmann/e449908.rhd)  
+
+| Titel:    | Alexander v. Humboldt und die Erfindung der Natur | 
+| Autor:    | Andrea Wulf   | 
+| Verlag:   | Bertelsmann Verlag   | 
+| ISBN:     | 978-3-570-10206-0   | 
+
+Spannende und historische Geschichte über das Leben Alexander von Humboldt. Kapitel 9 hat mir besonders gefallen. Nach fünfjähriger Reise mit dutzenden von Truhen voller wissenschaftlicher Fundstücke trifft er in Paris ein. Paris war zu der Zeit das Mekka der Wissenschaft, da dank der Revolution die Herrschaft der Religion überwunden war. Zugleich wird beschrieben wie sehr sich Paris in fünf Jahren geändert hat, da Napoleon als Diktator die Architektur und das politische Klima radikal verändert hat. 
+
+
 ## Shitstorms Der Zusammenprall digitaler Kulturen
 
 [![Cover](../Bücher-meine-Lese-Logdatei/shitstorms.jpg)](https://www.springer.com/us/book/9783658199548)  
@@ -15,6 +28,10 @@ Trotz wiederholter Anfrage bietet kein schweizer Buchhändler eine Wunschliste f
 | ISBN:     | 978-3-658-19955-5   | 
 
 Was früher der Saubannerzug war, ist in der digitalen Welt der Shitstorm. In der postfaktischen Welt sind Emotionen und nicht Fakten bzw. Logik die Grundlage der Entscheidung. Wie das ein Professor aus Sicht seiner akademischen Welt das interpretiert, dass will ich wissen.  
+
+Erpressern gibt man nicht nach, sonst öffnet man weiteren Erpressungen Tür und Tor. Das ist Konsens in aller Welt. Shitstorm ist dasselbe. Man kann wie die Swisscom einknicken, wenn sich ein Bestsellerautor wegen wiederholter Probleme in seiner Hausinstallation meldet und ihn hofieren, in dem man ihm sogar in seiner Landesprache zurück schreibt und sofort einen Techniker schickt. Brian Krebs ein anerkannter Security Forscher schrieb diesen Artikel "https://krebsonsecurity.com/2018/03/who-and-what-is-coinhive/". Da er das von Gruppen aus dem linken Spektrum verwendete Doxing (nennen der Namen und Adressen der Verantwortlichen) umsetze, war einer der Hauptgründe das ein Shitstorm losbrach. Seine Reaktion war sehr professionell. Er reichte vier Tage später einen weiteren Artikel nach: https://krebsonsecurity.com/2018/03/coinhive-expose-prompts-cancer-research-fundraiser/. Brians Krebs kann mit einem Mafiajäger verglichen werden. Seine Recherche gegen die DDOS Kriminellen haben seine bei Akamai gehostete Website einer gigantischen DDOS [Attacke](https://www.zdnet.com/article/krebs-on-security-booted-off-akamai-network-after-ddos-attack-proves-pricey/) ausgesetzt unter der sogar Akamai zusammenbrach. Kurz und gut: er ist feuererprobt und hat Nerven wie Drahtseile. 
+
+Das Buch ist eine geschichtliche und soziologische Analyse was ein Shitstorm ist. Wer sich dafür interessiert ist mit dem Buch gut bedient. Eine Erwartung hat der Autor erfüllt. Alle negativen Beispiele sind aus dem politischen Mitte-Rechts Bereich. Nicht demokratisches Verhalten von Linken Gruppen wird nie thematisiert. Ein Shitstorm bzw. das androhen - auch indirekt im Stile "Ich habe über 4000 Follower und werde das posten" - ist Gewalt. Also moralisch und rechtlich für eine offene Gesellschaft nicht akzeptabel.  
 
 
 # Vor Oktober 2018
