@@ -15,8 +15,9 @@ Trotz wiederholter Anfrage bietet kein schweizer Buchhändler eine Wunschliste f
 | Verlag:   | Bertelsmann Verlag   | 
 | ISBN:     | 978-3-570-10206-0   | 
 
-Spannende und historische Geschichte über das Leben Alexander von Humboldt. Kapitel 9 hat mir besonders gefallen. Nach fünfjähriger Reise mit dutzenden von Truhen voller wissenschaftlicher Fundstücke trifft er in Paris ein. Paris war zu der Zeit das Mekka der Wissenschaft, da dank der Revolution die Herrschaft der Religion überwunden war. Zugleich wird beschrieben wie sehr sich Paris in fünf Jahren geändert hat, da Napoleon als Diktator die Architektur und das politische Klima radikal verändert hat. 
+Spannende und historische Geschichte über das Leben Alexander von Humboldt. Kapitel 9 hat mir besonders gefallen. Nach fünfjähriger Reise mit dutzenden von Truhen voller wissenschaftlicher Fundstücke trifft er in Paris ein. Paris war zu der Zeit das Mekka der Wissenschaft, da dank der Revolution die Herrschaft der Religion überwunden war. Zugleich wird beschrieben wie sehr sich Paris in fünf Jahren geändert hat, da Napoleon als Diktator die Architektur und das politische Klima radikal verändert hat.  
 
+Spannend auch die Kontakte mit Bolivar und anderen Persönlichkeiten der damaligen Zeit. Die Autorin schildert auch die Diskussionen mit seinem Bruder Wilhelm, der ihm laufend vorwirft sein Deutschtum zu verraten. Seine chronische Terminüberschreitung beim (parallelen) schreiben seiner Bücher und die Sorgen seiner Schwester um das finanzielle Überleben, sind spannender Teil dieser Biografie.
 
 ## Shitstorms Der Zusammenprall digitaler Kulturen
 
@@ -99,4 +100,5 @@ Flüssig geschriebener Überflug über Windows 10 für Fortgeschrittene. Das Buc
 | ISBN:     | ISBN 978-3-8362-2013-2    | 
 
 Umfassende Einführung in Windows Server 2012. Ideal für Einsteiger die sorgfältig recherchierte und sorgfältig publizierte Informationen suchen. Wird vom Verlag in der Reihe <Open Book> kostenlos online angeboten. Aber... wer einmal ein gedrucktes Buch aus dem Rheinwerk Verlag in den Fingern hatte, wird nie wieder darauf verzichten wollen. Das ist Buchdruckkunst vom Feinsten. Etwas was es im 21. Jahrhundert gar nicht mehr geben dürfte. Sehr zu empfehlen.  
+
 
