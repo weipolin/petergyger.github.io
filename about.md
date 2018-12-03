@@ -23,5 +23,5 @@ In dieser Zeit lernte ich auch Linux (Raspberry PI) schätzen, absolvierte 4 Sem
 ### Kontakt
 
 * [E-Mail](mailto:petergyger@photonmail.com)
-* [Twitter](https://twitter.com/)
+
 
