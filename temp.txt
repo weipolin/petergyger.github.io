@@ -1,0 +1,11 @@
+# Eingangsverzeichnis auf Dokumente überprüfen.
+# Verzeichnis des Eingages setzen. Danach Anzahl Einträge ermittlen
+$folderinput="Z:\Peter\005 Beruf\Bewerbung\Chronologie\000 Eingang";
+Get-ChildItem -Path $folderinput -File | Measure-Object | %{$_.Count}
+
+# Monat ermitteln
+$datum = Get-Date
+# Zielverzeichnis gleich Monat in Zahl (Jan =1 / Feb = 2 / etc.). Danach nach Namen sortiert die letzte Datei anzeigen.
+$folderoutput="Z:\Home\Chronos\" + $datum.Month;
+$test = Get-ChildItem -Path $folderinput| select name, state -last 1
+# $test.Substring(0,3)
