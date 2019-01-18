@@ -20,7 +20,7 @@ Mit dem Jahr 2000 trat eine Wende ein. Als Freelancer mit eigener Firma suchte i
 
 In dieser Zeit lernte ich auch Linux (Raspberry PI) schätzen, absolvierte 4 Semester an der HFU Uster im Lehrgang "Network Engineer NDS HF" (mit damaligen Arbeitsort Bern), setzte mich mit Zyxel Hardware auseinander, vertiefte mich in MS Powershell (die Zukunft der Skripte) und und und...
 
-Wenn man von einer Wissenskarte spricht, d.h. Höhe / Tiefe des eigenen Wissens, dann bin ich ein Generalist. Ich fokusiere dann ein Thema, wenn ich daran arbeite. Dann will ich in die Tiefe gehen und mutiere zum Perfektionisten. Und alles andere bleit ausgeblendet.
+Wenn man von einer Wissenskarte spricht, d.h. Höhe / Tiefe des eigenen Wissens, dann bin ich ein Generalist. Ich fokusiere dann ein Thema, wenn ich daran arbeite. Dann will ich in die Tiefe gehen und mutiere zum Perfektionisten. Und alles andere bleibt ausgeblendet.
 
 ### Kontakt
 
