@@ -18,7 +18,9 @@ Novell NDS hat mich nicht überzeugt. Sowieso nachdem ich an der Digicomp AG die
 
 Mit dem Jahr 2000 trat eine Wende ein. Als Freelancer mit eigener Firma suchte ich die Fortsetzung meiner Entwicklung in der IT. Was mir eher schlecht als recht gelang. So wechselte ich das Netzwerkfeld von Microsoft Netzwerken zur Telematik. Seit 2006 war ich im technischen Kundendienst der Swisscom. Wir supporteten die letzten Dial-Up Kunden, erleben den Wechsel von ADSL zu VDSL und Fibre, die Einführung von Voip und das Highlight war der TV Support. Ich hatte das grosse Glück als einer der ca. 22 Mitarbeiter im ersten Supportteam zu sein. Weniger Glück hatten wir als Team. Die Bluewin TV Aufschaltung war für ein paar Kunden als Pilot (sowohl ADSL wie VDSL) geplant. Jedoch schaltete exakt zu dem Zeitpunkt Cablecom deutsche Regionalsender aus, welche beim älteren Publikum beliebt waren. Und frei nach dem Motto "Warum in die Ferne schweifen..." hatten wir tausende von Anmeldungen.  
 
-In dieser Zeit lernte ich auch Linux (Raspberry PI) schätzen, absolvierte 4 Semester an der HFU Uster im Lehrgang "NDS Netzwerk Enngineer" (mit damaligen Arbeitsort Bern), setzte mich mit Zyxel Hardware auseinander, vertiefte mich in MS Powershell (die Zukunft der Skripte) und und und...
+In dieser Zeit lernte ich auch Linux (Raspberry PI) schätzen, absolvierte 4 Semester an der HFU Uster im Lehrgang "Network Engineer NDS HF" (mit damaligen Arbeitsort Bern), setzte mich mit Zyxel Hardware auseinander, vertiefte mich in MS Powershell (die Zukunft der Skripte) und und und...
+
+Wenn man von einer Wissenskarte spricht, d.h. Höhe / Tiefe des eigenen Wissens, dann bin ich ein Generalist. Ich fokusiere dann ein Thema, wenn ich daran arbeite. Dann will ich in die Tiefe gehen und mutiere zum Perfektionisten. Und alles andere bleit ausgeblendet.
 
 ### Kontakt
 
